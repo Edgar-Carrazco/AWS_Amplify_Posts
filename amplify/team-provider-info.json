@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-newsfeed-staging-162101-authRole",
+      "UnauthRoleArn": "arn:aws:iam::843740084315:role/amplify-newsfeed-staging-162101-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::843740084315:role/amplify-newsfeed-staging-162101-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-newsfeed-staging-162101-deployment",
+      "UnauthRoleName": "amplify-newsfeed-staging-162101-unauthRole",
+      "StackName": "amplify-newsfeed-staging-162101",
+      "StackId": "arn:aws:cloudformation:us-east-1:843740084315:stack/amplify-newsfeed-staging-162101/b425c240-bffc-11ec-8270-0ea201c9d581",
+      "AmplifyAppId": "d25gtzjok2f9np"
+    }
+  }
+}
